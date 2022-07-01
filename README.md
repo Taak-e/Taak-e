@@ -1,6 +1,6 @@
 <div align="center">
-
-## Hello! 👋 
+Hello! 👋 
+<br/>
 I'm Jootak Kim, Junior Web Front-end developer. 
 <br/>
 <br/>
