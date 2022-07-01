@@ -5,7 +5,7 @@ I'm Jootak Kim, Junior Web Front-end developer.
 <br/>
 <br/>
 
-### 📚 Tech & learning
+### 📚 I'm learning
 
 |Language|Web Front-End|Infra|
 |---|---------|---|
